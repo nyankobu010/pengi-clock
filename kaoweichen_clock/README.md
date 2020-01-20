@@ -17,6 +17,4 @@ There are both dark and light mode themes.
 <img src='analog_dark.jpg' width='350'>
 
 ## License
-+ Code and project is licensed under [MIT](https://choosealicense.com/licenses/mit/)
-+ Assets are licensed under [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
-
++ Code and Assets are licensed under [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
