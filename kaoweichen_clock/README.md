@@ -10,9 +10,9 @@ There are both dark and light mode themes.
 + Simple and smooth animation for a cute winged designed and animated using Rive.app
 + Cute winged creature for kids and lovers of winged creatures.
 
-Light Mode
+#### Light Mode
 <img src='analog_light.jpg' width='350'>
-Dark Mode
+#### Dark Mode
 <img src='analog_dark.jpg' width='350'>
 
 ## License
