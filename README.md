@@ -1,15 +1,21 @@
-# Flutter Clock
+# Analog Clock
 
-Welcome to Flutter Clock!
+This app is an analog clock for the Flutter Clock Challenge.
+There are both dark and light mode themes.
 
-See [flutter.dev/clock](https://flutter.dev/clock) for how to get started, submission requirements, contest rules, and FAQs.
+## Key features are the following
++ Background changes based on sun twilight.
+  + For the purpose of this challenge, modes are determined based on predesignated hours of the day.
++ Dark and light mode version of character.
++ Simple and smooth animation for a cute winged designed and animated using Rive.app
++ Cute winged creature for kids and lovers of winged creatures.
 
-See a [live demo](https://maryx.github.io/flutter_clock) with Flutter for Web!
+#### Light Mode
+<img src='./kaoweichen_clock/analog_light.jpg' width='350'>
 
-Example [Analog Clock](analog_clock)
+#### Dark Mode
+<img src='./kaoweichen_clock/analog_dark.jpg' width='350'>
 
-<img src='analog_clock/analog.gif' width='350'>
-
-Example [Digital Clock](digital_clock)
-
-<img src='digital_clock/digital.gif' width='350'>
+## License
++ Code and project is licensed under [MIT](https://choosealicense.com/licenses/mit/)
++ Assets are licensed under [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
